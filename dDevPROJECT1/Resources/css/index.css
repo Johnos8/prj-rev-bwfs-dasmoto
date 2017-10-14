@@ -1,0 +1,30 @@
+
+body h1 {
+  color: khaki;
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 100px
+}
+body h2 {
+background-color: mediumspringgreen;
+font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+}
+body h4 {
+background-color: lightcoral;
+font-size: 32px;
+font-weight: bold;
+}
+body h5 {
+background-color: skyblue;
+font-size: 32px;
+font-weight: bold;
+}
+span {
+color: blue;
+Starting at $3.00 / brush.
+Starting at $2.00 / frame.}
+Starting at $5.00 / tube.
+
+}
